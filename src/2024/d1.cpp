@@ -1,6 +1,6 @@
 /**
  * author: Aryan Suri
- * licence: MIT
+ * licence: PolyForm-Noncommercial-1.0.0
  **/
 #include <algorithm>
 #include <cstdlib>
